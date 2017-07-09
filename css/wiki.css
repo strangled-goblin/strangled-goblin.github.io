@@ -17,3 +17,24 @@
 	padding: 8px 8px 8px 8px;
 	background-color: #C6D79A
 }
+
+
+.expand {
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+	padding: 10px;
+	background-color: #EEEEEE;
+	margin: 0;
+}
+.expand:hover {
+	background: #EEEEFF;
+}
+.expandable {
+    display:none;
+}
+.revealed { 
+	padding: 10px;
+	background-color: #FFFFFF;
+	margin: 0;
+}
