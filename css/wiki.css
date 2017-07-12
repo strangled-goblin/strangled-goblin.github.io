@@ -37,4 +37,7 @@
 	padding: 10px;
 	background-color: #FFFFFF;
 	margin: 0;
+    border-style: solid;
+    border-width: 1px;
 }
+
